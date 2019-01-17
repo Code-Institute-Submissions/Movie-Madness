@@ -6,79 +6,37 @@
   }
 
   .navbar {
-    background-color: black;
+    background-color: black!important;
     height: 60px;
-    opacity: 0.9;
     font-family: 'Berkshire Swash', cursive;
   }
-
-  .navbar-brand {
-    font-family: 'Berkshire Swash', cursive;
+  
+  .navbar-light .navbar-brand {
+    color: #bfa267;
+  }
+  
+  .navbar-light .navbar-brand:hover {
+    color: white;
+  }
+  
+  .navbar-light .navbar-toggler-icon {
+    color: #bfa267;
   }
 
+  .navbar-collapse {
+    background-color: black;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #bfa267;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+  }
+  
   .fas {
     color: #bfa267;
   }
 
-  .dropbtn {
-    background-color: black;
-    color: #bfa267;
-    font-size: 16px;
-    border: none;
-    font-family: 'Berkshire Swash', cursive;
-  }
-  
-  .black {
-    background-color: black;
-  }
-
-  .dropdown {
-    position: relative;
-    display: inline-block;
-    color: #bfa267;
-  }
-
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #bfa267;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-  }
-
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-
-  .dropdown-content a:hover {
-    background-color: #bfa267;
-  }
-
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-
-  nav ul li a {
-    color: #bfa267;
-  }
-
-  nav>a {
-    color: #bfa267;
-  }
-
-  nav>a:hover {
-    color: lemonchiffon;
-  }
-
-  nav ul li a:hover {
-    color: lemonchiffon;
-  }
-
-  .flex-row-reverse {
-    flex-direction: row-reverse!important;
-  }
   
