@@ -57,8 +57,17 @@
     margin: auto;
     margin-bottom: 5%;
   }
+  
+  .large-margin-top {
+    margin-top: 100vh;
+  }
+  
   .margin-top {
     margin-top: 20%;
+  }
+  
+  .margin-left {
+    margin-left: 5px;
   }
 
   .invisible {
