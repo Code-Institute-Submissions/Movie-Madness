@@ -1,0 +1,113 @@
+  body,
+  html {
+    min-height: 100%;
+    background-color: #bfa267;
+  }
+
+  .titles {
+    text-align: center;
+    color: #bfa267;
+    opacity: 1;
+    margin-top: 10%;
+    margin-bottom: 5%;
+
+  }
+
+  a i {
+    width: 100%;
+    text-align: center;
+  }
+
+  .main-top {
+    margin-top: 70vh;
+  }
+
+  .fas {
+    margin-bottom: 10%;
+  }
+
+  span {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+
+
+
+
+
+  .main {
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    background-color: black;
+    color: #bfa267;
+  }
+
+  h3 img {
+    margin-top: 15%;
+  }
+
+  .back-top {
+    position: fixed;
+    background-color: black;
+    top: 0;
+    margin-left: 45%;
+    width: 10%;
+    z-index: 2;
+    opacity: 0.7;
+  }
+
+  .margin-auto {
+    margin: auto;
+  }
+
+  .margin-bottom {
+    margin: auto;
+    margin-bottom: 5%;
+  }
+  .margin-top {
+    margin-top: 20%;
+  }
+
+  .invisible {
+    color: black;
+  }
+
+  p {
+    color: white;
+  }
+
+  .gold {
+    color: #bfa267;
+  }
+
+  .btn {
+    margin-bottom: 30px;
+    height: 40px;
+    width: 150px;
+    background-color: #bfa267;
+  }
+  .btn:hover {
+    background-color: black;
+  }
+  
+  
+  .btn-text {
+    color: black;
+  }
+
+  .btn-text:hover {
+    color: #bfa267;
+    text-decoration: none;
+  }
+
+  .wider-input {
+  width: 300px;
+  }
+
+  .card-body {
+  background-color: black;
+  }
+
+  .small-text {
+  font-size: 12px;
+  }
