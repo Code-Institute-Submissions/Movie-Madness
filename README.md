@@ -40,7 +40,7 @@ Wireframes were made on pen and paper.
 
 The sites responsiveness was tested using Google developer tools. All devices provided were tested.
 
-User testing was done to ensure
+User testing was done to ensure:
 
 * All links work correctly.
 * Links to other sites make use of target="_blank", so as to open the linked site in a new tab.
@@ -57,7 +57,7 @@ It is deployed from the master branch.
 
 ### Run Locally
 
-To run this site locally, in your terminal enter: git clone https://github.com/dmongey101/Movie-Madness.
+To run this site locally, in your terminal enter: git clone https://github.com/dmongey101/Movie-Madness
 
 ## Credits
 
@@ -66,3 +66,5 @@ To run this site locally, in your terminal enter: git clone https://github.com/d
 * The video was taken from Paul Boudreau's youtube channel.
 * All images are from google images. 
 * Fonts used were obtained from Google Fonts.
+* The bouncing arrow was obtained from freefrontend.com
+* Loading wheel obtained from W3Schools

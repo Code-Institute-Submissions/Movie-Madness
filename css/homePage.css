@@ -1,7 +1,7 @@
   body,
   html {
     min-height: 100%;
-    background-color: #bfa267;
+    background-color: black;
   }
 
   .titles {
@@ -39,16 +39,6 @@
     margin-top: 15%;
   }
 
-  .back-top {
-    position: fixed;
-    background-color: black;
-    top: 0;
-    margin-left: 45%;
-    width: 10%;
-    z-index: 2;
-    opacity: 0.7;
-  }
-
   .margin-auto {
     margin: auto;
   }
@@ -58,6 +48,9 @@
     margin-bottom: 5%;
   }
   
+  .large-margin-bottom {
+    margin-bottom: 30vh;
+  }
   .large-margin-top {
     margin-top: 100vh;
   }
@@ -68,10 +61,6 @@
   
   .margin-left {
     margin-left: 5px;
-  }
-
-  .invisible {
-    color: black;
   }
 
   p {
@@ -88,6 +77,7 @@
     width: 150px;
     background-color: #bfa267;
   }
+  
   .btn:hover {
     background-color: black;
   }
@@ -103,13 +93,58 @@
   }
 
   .wider-input {
-  width: 300px;
+    width: 300px;
   }
 
   .card-body {
-  background-color: black;
+    background-color: black;
   }
 
   .small-text {
-  font-size: 12px;
+    font-size: 12px;
+  }
+  
+  .arrow {
+    position: absolute;
+    margin-left: -10px;
+    left: 50%;
+    top: 90%;
+
+}
+  
+  .bounce {
+    -moz-animation: bounce 2s infinite;
+    -webkit-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  .loader {
+    position: fixed;
+    z-index: 0;
+    border: 16px solid #f3f3f3;
+    border-top: 16px solid #3498db;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+    left: 50%;
+    top: 50%;
+    animation: spin 2s linear infinite;
+}
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
   }
