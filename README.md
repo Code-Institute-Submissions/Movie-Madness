@@ -21,11 +21,11 @@ The gold font replicates the colour of the oscars.
 
 User requirements are met in the following ways:
 
-    * The navbar is fully functional and links to the different segments on the page.
-    * The links to buy the movies are fully functional.
-    
-### Wireframing
+* The navbar is fully functional and links to the different segments on the page.
+* The links to buy the movies are fully functional.
 
+## Wireframing
+    
 Wireframes were made on pen and paper.
 
 
@@ -38,19 +38,19 @@ Wireframes were made on pen and paper.
 
 ## Testing
 
-The sites responsiveness was testes using Google developer tools. All devices provided were tested.
+The sites responsiveness was tested using Google developer tools. All devices provided were tested.
 
-User testing was done to ensure:
+User testing was done to ensure
 
-    * All links work correctly.
-    * Links to other sites make use of target="_blank", so as to open the linked site in a new tab.
-    * The email form gives an error if a required field is not filled in.
-    * The email input gives an error if an email is entered in an incorrect format.
-    * The navbar links link to the correct section of the site for the link clicked on.
-    * All hover and visited effects work correctly and as intended.
-    * The video plays on loop as intended.
-    
-## Deployment 
+* All links work correctly.
+* Links to other sites make use of target="_blank", so as to open the linked site in a new tab.
+* The email form gives an error if a required field is not filled in.
+* The email input gives an error if an email is entered in an incorrect format.
+* The navbar links link to the correct section of the site for the link clicked on.
+* All hover and visited effects work correctly and as intended.
+* The video plays on loop as intended.
+
+## Deployment
 
 The site is hosted on github pages.
 It is deployed from the master branch.
