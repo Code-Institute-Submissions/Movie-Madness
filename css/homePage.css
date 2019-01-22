@@ -38,6 +38,11 @@
   h3 img {
     margin-top: 15%;
   }
+  
+  .block {
+    display: block;
+    margin: auto;
+  }
 
   .margin-auto {
     margin: auto;
@@ -80,7 +85,7 @@
   }
   
   .btn:hover {
-    background-color: black;
+    background-color: #303130;
   }
   
   
