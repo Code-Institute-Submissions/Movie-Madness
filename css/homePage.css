@@ -26,6 +26,8 @@
   .fas {
     margin-bottom: 10%;
   }
+  
+  
 
 
   .main {
@@ -70,6 +72,12 @@
   .margin-left {
     margin-left: 5px;
   }
+  
+@media only screen and (max-width: 576px) {
+  .oscar-margin {
+    margin-top: 40px;
+  }
+}
 
   p {
     color: white;
