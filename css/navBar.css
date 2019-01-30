@@ -8,7 +8,7 @@
   .navbar {
     background-color: black!important;
     height: 60px;
-    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Raleway', sans-serif;
   }
   
   .navbar-light .navbar-brand {
@@ -34,9 +34,6 @@
   .navbar-light .navbar-nav .nav-link:hover {
     color: white;
   }
-  
-  .fas {
-    color: #bfa267;
-  }
+
 
   

@@ -2,6 +2,7 @@
   html {
     min-height: 100%;
     background-color: black;
+    font-family: 'Raleway', sans-serif;
   }
 
   .titles {
@@ -57,6 +58,7 @@
   .large-margin-bottom {
     margin-bottom: 30vh;
   }
+  
   .large-margin-top {
     margin-top: 100vh;
   }
@@ -77,10 +79,17 @@
     color: #bfa267;
   }
 
-  .btn {
+  .btn-genre {
+    margin-bottom: 30px;
+    height: 53px;
+    width: 150px;
+    background-color: #bfa267;
+  }
+  
+   .btn-top {
     margin-bottom: 30px;
     height: 40px;
-    width: 150px;
+    width: 120px;
     background-color: #bfa267;
   }
   

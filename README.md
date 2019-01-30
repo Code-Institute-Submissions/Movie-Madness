@@ -71,6 +71,10 @@ To run this site locally, in your terminal enter: git clone https://github.com/d
 
 ## Credits
 
+### Content
+
+* All movie descriptions were taken from IMBd
+
 ### Media
 
 * The video was taken from Paul Boudreau's youtube channel.
