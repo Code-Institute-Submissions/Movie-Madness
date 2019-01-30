@@ -14,8 +14,7 @@ A live version can be found [Here](https://dmongey101.github.io/Movie-Madness/).
 
 ## UX
 
-The design was kept simple. The webiste is dark in colour to try and replicate a movie theatre. The video on the homepage makes the movie theatre theme more realistic with it continuing down the edges on large and medium screens to keep the user in the theme all through the website.
-The gold font replicates the colour of the oscars.
+The website is directed towards people who are looking to find guidance on some movies to watch. The webiste is dark in colour to try and replicate a movie theatre. The video on the homepage makes the movie theatre theme more realistic with it continuing down the edges on large and medium screens to keep the user in the theme all through the website.
 
 ### No Template was used
 
@@ -24,10 +23,21 @@ User requirements are met in the following ways:
 * The navbar is fully functional and links to the different segments on the page.
 * The links to buy the movies are fully functional.
 
-## Wireframing
+### Wireframing
     
 Wireframes were made on pen and paper.
 
+## Features
+
+### Existing Features
+
+* linkable sections on the site from the navbar
+* links to other websites
+
+### Features left to implement
+
+* enable the email form to send mails to my account
+* include a button that pops a trailer for the movie in a modal
 
 ## Technologies Used
 
